@@ -8,6 +8,11 @@ For 3-phase segmentation check [bone meshing notebook](bone_meshing.ipynb), whic
 
 For 2-phase segmentation check [bundles meshing notebook](bundles_meshing.ipynb). Chalk and fiber meshing is pretty much the same as bundles, and bench is an example of meshing an rgb image, by simply converting it to grayscale. 
 
+Input image | Meshing result 
+:---:|:---:
+<img src="images/bone_Figure_3.png" alt="drawing" width="300"/> |  <img src="images/bone_Figure_8.png" alt="drawing" width="300"/>
+
+
 
 
 
