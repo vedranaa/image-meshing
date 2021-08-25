@@ -4,9 +4,9 @@
 
 The module `meshing.py` contains the functionality for contour-based meshing of the image. Contour detection uses marching squares implementation from the [scikit image module](https://scikit-image.org/). For computing the conforming constrained Delaunay triangulation we rely on the functionality from [triangle package](https://rufat.be/triangle/), which in turn wraps around [Jonathan Richard Shewchuk’s mesh generator](http://www.cs.cmu.edu/~quake/triangle.html). 
 
-For 3-phase segmentation check [bone meshing notebook](bone_meshing.ipynb), which is also a most documented notebook.
+For 3-phase segmentation check [bone meshing notebook](bone_meshing.ipynb), which is also the most documented meshing notebook.
 
-For 2-phase segmentation check [bundles meshing notebook](bundles_meshing.ipynb), or any of the other provided notebooks
+For 2-phase segmentation check [bundles meshing notebook](bundles_meshing.ipynb). Chalk and fiber meshing is pretty much the same as bundles, and bench is an example of meshing an rgb image, by simply converting it to grayscale. 
 
 
 
