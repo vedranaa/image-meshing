@@ -1,6 +1,6 @@
 # image-meshing
 
-*Contour-based meshing of the image domain developed for CINEMAX summer school.*
+*Contour-based meshing of the image domain developed for [CINEMAX summer school](https://www.conferencemanager.dk/cinemaxvi).*
 
 Input image | Meshing result `ael=5` | Meshing result `ael=2` 
 :---:|:---:|:---:
